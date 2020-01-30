@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Erik Espuñes Juberó\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Erik Espuñes Juberó\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Portal.-1213482191.00" t="ExcludeRecursive" />
+    <e p="D:\OneDrive\Universitat\4t\Desenvolupament de Jocs 3D\Portal" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Dee-Shaw" t="Include">
+            <e p="Information.txt" t="Include" />
+            <e p="Laser Pack" t="Include">
+              <e p="Manual" t="Include">
+                <e p="Manual.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Shooting.cs" t="Include" />
+                <e p="SimpleCameraController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="EffectExamples" t="Include">
+            <e p="Magic Effects" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Ice.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Misc Effects" t="Include">
+              <e p="Prefabs" t="Include">
+                <e p="Readme_Dissolve_Respawn_.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="SpawnEffect.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Dissolve.shader" t="Include" />
+                <e p="FireFly.shader" t="Include" />
+                <e p="Respawn.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Lava_Flowing_Shader" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ScrollingUVs_Layers.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Unlit_Lava_Distort.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ChangeScene.cs" t="Include" />
+          <e p="CheckPoints" t="Include">
+            <e p="CheckPoint.cs" t="Include" />
+            <e p="SingletonCheckPoint.cs" t="Include" />
+          </e>
+          <e p="Companion" t="Include">
+            <e p="Companion.cs" t="Include" />
+            <e p="CompanionSpawner.cs" t="Include" />
+            <e p="PortalButton.cs" t="Include" />
+            <e p="RefractionCompanion.cs" t="Include" />
+          </e>
+          <e p="Controllers" t="Include">
+            <e p="FPSController.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+            <e p="LevelController.cs" t="Include" />
+          </e>
+          <e p="MovingPlatforms" t="Include">
+            <e p="Elevator.cs" t="Include" />
+            <e p="MovingPlatform.cs" t="Include" />
+            <e p="SidePlatform.cs" t="Include" />
+          </e>
+          <e p="Portal.cs" t="Include" />
+          <e p="PreviewPortal.cs" t="Include" />
+          <e p="Turret.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+        </e>
+        <e p="Shader" t="Include">
+          <e p="Portal.shader" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Portal.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
